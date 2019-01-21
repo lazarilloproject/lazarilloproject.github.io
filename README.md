@@ -1,2 +1,2 @@
-# lazarilloproject.github.io
-Website for lazarillo project hosted on Github.
+#### Webpage for lazarillo project hosted on Github.
+![logo](img/Screenshot%20(113).png)
