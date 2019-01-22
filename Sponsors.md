@@ -10,4 +10,4 @@ We thank the Entrepreneurship Prize used for funding this project from [Universi
 
 
 
-### We are seeking funding, contact natalia.diaz [at] ensta [dot] fr  for more information.
+## We are seeking funding, contact natalia.diaz [at] ensta [dot] fr  for more information.
