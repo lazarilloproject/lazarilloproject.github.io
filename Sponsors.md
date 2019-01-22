@@ -3,4 +3,5 @@ layout: page
 title:  Sponsors
 ---
 
->>Sponsors test
+We thank the Entrepreneurship Prize used for funding this project from 
+![](img/granada.png)
