@@ -3,11 +3,16 @@ layout: page
 title: Contributors
 ---
 
+#### Volunteers
+* Yuhki Mitsufuji Sony Tokyo
+
+* Junya A Suzuki, Sony Tokyo
+
 #### Researchers                                                                           
-1. [Natalia Díaz Rodríguez](https://nataliadiaz.github.io)                             
+* [Natalia Díaz Rodríguez](https://nataliadiaz.github.io)                             
 
-1. [Pablo Ruiz Ruiz](https://www.linkedin.com/in/pabloruizruiz/)                       
+* [Pablo Ruiz Ruiz](https://www.linkedin.com/in/pabloruizruiz/)                       
 
-1. [Jidin Dinesh](http://jidindinesh.github.io)
+* [Jidin Dinesh](http://jidindinesh.github.io)
 
 
