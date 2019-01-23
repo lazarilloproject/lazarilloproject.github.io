@@ -8,6 +8,6 @@ title: Contributors
 
 1. [Pablo Ruiz Ruiz](https://www.linkedin.com/in/pabloruizruiz/)
 
-
+1. [Jidin Dinesh](http://jidindinesh.github.io)
 
 
