@@ -4,7 +4,7 @@ title: Contributors
 ---
 
 #### Volunteers
-* Yuhki Mitsufuji Sony Tokyo
+* Yuhki Mitsufuji, Sony Tokyo
 
 * Junya A Suzuki, Sony Tokyo
 
