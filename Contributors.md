@@ -3,6 +3,6 @@ layout: page
 title: Contributors
 ---
 
-#### Researchers                                                                       Volunteers
-
+#### Researchers                                                                       
+1. [Natalia Díaz Rodríguez](https://nataliadiaz.github.io)
 
