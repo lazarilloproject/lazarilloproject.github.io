@@ -4,4 +4,4 @@ title: Leaderboard
 ---
 
 
-> **LeaderBoard test**
+> **Coming up soon :)**
