@@ -18,5 +18,9 @@ title: Contributors
 #### Partners
 * [V7 Aipoly, San Francisco](https://www.aipoly.com/technology)
 
+* [Outbarriers, Granada](https://outbarriers.com/en/)
+
+
+
 
 
