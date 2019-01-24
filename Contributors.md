@@ -26,9 +26,10 @@ title: Contributors
 
 * [Continual AI](http://continualai.org/)
 
+#### Some literature
+* [The Effect of Computer-Generated Descriptions on Photo-Sharing Experiences of People With Visual Impairments](https://arxiv.org/pdf/1805.01515.pdf)
 
-
-
+* [A Survey of Mobile Computing for the Visually Impaired](https://arxiv.org/abs/1811.10120)
 
 
 
