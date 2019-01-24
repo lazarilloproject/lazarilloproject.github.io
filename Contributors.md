@@ -15,6 +15,8 @@ title: Contributors
 
 * Junya A Suzuki, Sony Tokyo
 
+#### Partners
+* [V7 Aipoly, San Francisco](https://www.aipoly.com/technology)
 
 
 
