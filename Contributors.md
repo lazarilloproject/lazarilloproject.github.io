@@ -4,11 +4,13 @@ title: Contributors
 ---
 
 #### Researchers                                                                           
-* [Natalia Díaz Rodríguez](https://nataliadiaz.github.io)                             
+* [Natalia Díaz Rodríguez](https://nataliadiaz.github.io) | Project Lead, Computer Science and System Engineering Dept.,  Autonomous Systems and Robotics, ENSTA ParisTech & INRIA Flowers
 
-* [Pablo Ruiz Ruiz](https://www.linkedin.com/in/pabloruizruiz/)                       
 
-* [Jidin Dinesh](http://jidindinesh.github.io)
+* [Pablo Ruiz Ruiz](https://www.linkedin.com/in/pabloruizruiz/) | Developer,  DASlab-SEAS, John A. Paulson School Of Engineering And Applied Sciences, Harvard University
+                    
+
+* [Jidin Dinesh](http://jidindinesh.github.io) | Developer, Cochin University of Science And Technology
 
 #### Volunteers
 * Yuki Mitsufuji, Sony Tokyo
