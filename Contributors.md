@@ -22,6 +22,11 @@ title: Contributors
 
 * [La ciudad accesible, Granada](http://www.laciudadaccesible.com/donaciones/antonio.html)
 
+* [ProgressTech, Tokyo](https://www.progresstech.jp)
+
+* [Continual AI](http://continualai.org/)
+
+
 
 
 
