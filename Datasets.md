@@ -1,3 +1,9 @@
+---
+layout: page
+title: Datasets
+---
+
+
 Egoshots consists of real-life ego-vision images captioned using state of the art image captioning models, and aims at 
 evaluating the robustness, diversity, and sensitivity of these models, as well as providing a real life-logging setting on-
 the-wild dataset that can aid the task of evaluating real settings. It consists of images from two computer scientists while 
