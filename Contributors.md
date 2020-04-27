@@ -12,6 +12,8 @@ title: Contributors
 
 * [Jidin Dinesh](http://jidindinesh.github.io) Developer, Cochin University of Science And Technology
 
+* [Pranav Agarwal](https://www.linkedin.com/in/pranav-agarwal-6b4453114/), INRIA RITS
+
 #### Volunteers
 * Yuki Mitsufuji, Sony Tokyo
 
